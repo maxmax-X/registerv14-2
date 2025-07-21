@@ -95,7 +95,7 @@ Bot Settings > OAuth2 > URL Generator'dan şu izinleri seçin:
 DISCORD_TOKEN=your_discord_bot_token_here
 
 # Bot Yapılandırması (Bot Configuration)
-DEVELOPER=Xedevil                    # Geliştirici adı
+DEVELOPER=dev                       # Geliştirici adı
 BOT_ID=your_bot_id_here             # Bot ID'si
 MAIN_GUILD_ID=your_main_server_id   # Ana sunucu ID'si
 ADMIN_ROLE=Admin                    # Admin rol adı

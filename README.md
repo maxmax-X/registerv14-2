@@ -8,7 +8,7 @@
 - **Modern Gradient Renkler:** Emerald, Violet, Cyan, Premium Gold
 - **Şık Embed'ler:** Animated iconlar, author, thumbnail, image destekli
 - **Profesyonel Görünüm:** Premium kalite tasarım ve kullanıcı deneyimi
-- **Universal Footer:** Tüm mesajlarda "Made and Developed by Xedevil" imzası
+-
 
 ### 💾 **Gelişmiş Veri Yönetimi Sistemi**
 - **JSON Tabanlı Kaydetme:** Tüm sunucu verileri serverdata.json'da saklanır

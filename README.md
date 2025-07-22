@@ -189,7 +189,7 @@ Herhangi bir sorun yaşarsanız:
 ✅ Modern gradient renk paleti (Emerald, Violet, Cyan)  
 ✅ Animated Discord emojileri tüm embed'lerde  
 ✅ Premium kalite tasarım ve kullanıcı deneyimi  
-✅ "Made and Developed by Xedevil" imzası tüm mesajlarda  
+
 
 ### 💾 **Veri Yönetimi**
 ✅ JSON tabanlı kalıcı veri saklama sistemi  
